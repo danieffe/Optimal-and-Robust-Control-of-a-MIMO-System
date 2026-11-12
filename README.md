@@ -5,7 +5,7 @@ This repository contains the design, implementation, and simulation of various a
 ## ⚙️ The Plant
 The physical system under study consists of a coupled mechanical plant featuring 4 masses interconnected by a network of springs and dampers. 
 
-![Plant Schematic](sistema_da_controllare.jpg)
+![Plant Schematic](Sistema_da_controllare.jpg)
 
 The control objective is to accurately control the positions of two specific masses by applying independent control forces, managing a fully coupled MIMO dynamic system.
 
