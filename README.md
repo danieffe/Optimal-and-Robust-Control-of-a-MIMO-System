@@ -18,7 +18,7 @@ To run the simulations and generate the comparison plots:
 1. **Prerequisites:** Ensure you have **MATLAB** and **Simulink** installed, along with the *Control System Toolbox* and *Robust Control Toolbox*.
 2. **Clone the repository:**
    ```bash
-   git clone [https://github.com/danieffe/Optimal-and-Robust-Control-of-a-MIMO-System.git](https://github.com/danieffe/Optimal-and-Robust-Control-of-a-MIMO-System.git)
+   git clone https://github.com/danieffe/Optimal-and-Robust-Control-of-a-MIMO-System.git
     ```
 3. **Open MATLAB:** Navigate to the cloned folder.
 4. **Run the Live Script:** Open `Tesina_controlli.mlx`. You can run it section by section to understand the mathematical synthesis, or simply click **Run All** in the Live Editor tab.
